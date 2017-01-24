@@ -17,17 +17,17 @@ A proposal to integrate Mathematica with several programming languages like Java
     2. Go to `src/main/java`;
     3. Type `java Proxy Zeta[2]`;
     4. Check if the result is correct.
-  2. PHP
+  2. PHP:
     1. Install PHP and check if the installation is ok;
     2. Go to `src/main/php`;
     3. Type `php proxy.php Zeta[2]`;
     4. Check if the result is correct.
-  3. Python
+  3. Python:
     1. Install Python and check if the installation is ok;
     2. Go to `src/main/python`;
     3. Type `python proxy.py Zeta[2]`;
     4. Check if the result is correct.
-  4. Ruby
+  4. Ruby:
     1. Install Ruby and check if the installation is ok;
     2. Go to `src/main/ruby`;
     3. Type `ruby proxy.rb Zeta[2]`;
