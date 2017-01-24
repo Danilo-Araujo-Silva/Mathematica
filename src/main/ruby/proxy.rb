@@ -1,0 +1,1 @@
+system('../mathematica/proxy.m %s' % ARGV[0])
