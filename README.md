@@ -10,7 +10,8 @@ A proposal to integrate Mathematica with several programming languages like Java
 	2. Write `1+1`;
 	3. Press `Enter` and check the result;
 	4. Type `Ctrl+D` to quit.
-3. Change the file `src/main/mathematica/proxy.m` at `#!/usr/local/bin/MathematicaScript` to your MathematicaScript path if it is different.
+3. Check if the MathematicaScript path is correct for your environment in the file `src/main/mathematica/proxy.m`:
+	1. If the path `#!/usr/local/bin/MathematicaScript` is not the correct one for your envirnonment you need to update it first.
 4. Choose your favorite language:
   1. Java:
     1. Install Java and check if the installation is ok;
